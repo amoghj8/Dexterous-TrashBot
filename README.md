@@ -1,2 +1,2 @@
-# Dexterous-TrashBbot
+# Dexterous-TrashBot
 Garbage Segregation using Deep Learning 
